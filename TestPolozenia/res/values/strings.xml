@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ ! Wyciąg z książki "Hello, Android!",
+ ! opublikowanej przez wydawnictwo Helion S.A.
+ ! Niniejszy kod jest chroniony prawami autorskimi. Nie może zostać wykorzystany do utworzenia 
+ ! materiałów treningowych, kursów, książek, artykułów, itp. Prosimy o kontakt w razie
+ ! pojawienia się wątpliwości.
+ ! Nie gwarantujemy, że niniejszy kod będzie się nadawał do jakiegokolwiek celu. 
+ ! Więcej informacji można znaleźć na stronie http://www.pragmaticprogrammer.com/titles/eband.
+-->
+<resources>
+    <string name="app_name">TestPołożenia</string>
+</resources>

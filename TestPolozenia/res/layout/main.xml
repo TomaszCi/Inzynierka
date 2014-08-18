@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ ! Wyciąg z książki "Hello, Android!",
+ ! opublikowanej przez wydawnictwo Helion S.A.
+ ! Niniejszy kod jest chroniony prawami autorskimi. Nie może zostać wykorzystany do utworzenia 
+ ! materiałów treningowych, kursów, książek, artykułów, itp. Prosimy o kontakt w razie
+ ! pojawienia się wątpliwości.
+ ! Nie gwarantujemy, że niniejszy kod będzie się nadawał do jakiegokolwiek celu. 
+ ! Więcej informacji można znaleźć na stronie http://www.pragmaticprogrammer.com/titles/eband.
+-->
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    <TextView
+        android:id="@+id/wyjscie"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+</ScrollView>
+
